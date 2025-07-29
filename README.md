@@ -28,9 +28,9 @@ As ramificações são estruturadas para corresponder aos vídeos do curso. A co
 
 ### Instrutor(a) 
 
-**Nome do(a) instrutor(a)** 
+**Ana Cecília Vieira Silva**
 
-Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/). 
+Confira meus outros cursos no [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-cecilia-vieira). 
 
 [0]: # (Replace these placeholder URLs with actual course URLs) 
 [lil-course-url]: https://www.linkedin.com 
